@@ -42,7 +42,7 @@
 
 namespace Ohanzee\Helper;
 
-class File
+trait File
 {
     /**
      * Attempt to get the mime type from a file. This method is horribly
