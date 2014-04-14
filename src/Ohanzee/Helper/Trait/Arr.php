@@ -4,7 +4,7 @@
  * Ohanzee Components by Kohana
  *
  * @package    Ohanzee
- * @author     Se#
+ * @author     Se# <what4me@yandex.ru>
  * @copyright  2007-2014 Kohana Team
  * @link       http://ohanzee.org/
  * @license    http://ohanzee.org/license
