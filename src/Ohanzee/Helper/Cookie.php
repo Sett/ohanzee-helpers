@@ -42,7 +42,7 @@
 
 namespace Ohanzee\Helper;
 
-class Cookie
+trait Cookie
 {
 
     /**
