@@ -42,7 +42,7 @@
 
 namespace Ohanzee\Helper;
 
-class Arr
+trait Arr
 {
 
     /**
