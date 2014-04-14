@@ -42,7 +42,7 @@
 
 namespace Ohanzee\Helper;
 
-class Date
+trait Date
 {
     // Second amounts for various time increments
     const YEAR   = 31556926;
