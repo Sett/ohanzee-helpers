@@ -40,7 +40,7 @@
  * OF THE POSSIBILITY OF SUCH DAMAGE.
  */
 
-namespace Ohanzee\Helper;
+namespace Ohanzee\Helper\Trait;
 
 trait Arr
 {
